@@ -88,6 +88,9 @@
 					<li>
 					<a href="?dir=3_array&file=1_array">1_array</a>
 					</li>
+					<li>
+					<a href="?dir=3_array&file=2_associativo">2_associativo</a>
+					</li>
 					
 				</ul>
 				</div>
